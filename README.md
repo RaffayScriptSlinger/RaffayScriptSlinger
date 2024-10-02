@@ -1,5 +1,5 @@
 # 💫 About Me:
-React js and node js
+<br><br>👋 Hi there! I'm Raffay Sharjeel, a passionate Web Developer. I love exploring the world of Technologies, and I'm always eager to learn something new.<br><br>🌱 Currently Learning<br>I'm diving into React Js && next Js  to expand my skill set.<br><br>💼 Skills<br>[JavaScript]<br>[React]<br>[Css]<br>[Html]<br>🛠️ Projects<br>Check out some of my recent projects in my Github Repositories<br><br>📫 How to Reach Me<br>Feel free to connect with me on [https://www.linkedin.com/in/raffaysharjeel/, or raffaysharjeel@gmail.com].<br><br>🤔 Fun Fact<br>I love to explore New Technologies 
 
 
 ## 🌐 Socials:
