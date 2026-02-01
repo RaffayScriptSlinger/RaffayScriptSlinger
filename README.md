@@ -1,7 +1,7 @@
 # Hi there, I'm Raffay Sharjeel 👋
 
 **Computer Science Student | Full-Stack Developer | AI/Data Science Enthusiast**  
-*Crafting robust desktop/web apps from Karachi, Pakistan. Currently enrolled in AI & Data Science courses. Passionate about GUI design, databases, x86 assembly, and building future AI projects.*
+*Crafting robust desktop/web apps from Karachi, Pakistan. Currently enrolled in AI & Data Science courses. Passionate about GUI design, databases, x86 assembly, and exploring AI projects in the future.*
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffayScriptSlinger&show_icons=true&theme=radical&hide_border=true)](https://github.com/RaffayScriptSlinger)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffayScriptSlinger&layout=compact&theme=radical&hide_border=true)](https://github.com/RaffayScriptSlinger)
@@ -20,7 +20,6 @@
 ## 🔥 Featured Projects
 - **[Ride-Sharing Simulator](https://github.com/RaffayScriptSlinger/ride-sharing-sim)**: C# Windows Forms app with SQL Server backend for real-time booking simulation.
 - **[Text Rewriting App](https://github.com/RaffayScriptSlinger/text-rewriter)**: AI-integrated tool using APIs for content generation.
-- **[Coming Soon: AI Projects]** 👈 *Data analysis tools, ML models, and agent-based apps from my Data Science coursework*
 
 ## 📈 GitHub Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaffayScriptSlinger&theme=radical&hide_border=true)](https://github.com/RaffayScriptSlinger)
