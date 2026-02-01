@@ -15,9 +15,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=c-sharp&logoColor=white)
 
-## 🔥 Featured Projects
-- **[Ride-Sharing Simulator](https://github.com/RaffayScriptSlinger/ride-sharing-sim)**: C# Windows Forms app with SQL Server backend for real-time booking simulation.
-- **[Text Rewriting App](https://github.com/RaffayScriptSlinger/text-rewriter)**: AI-integrated tool using APIs for content generation.
 
 ## 📈 GitHub Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaffayScriptSlinger&theme=radical&hide_border=true)](https://github.com/RaffayScriptSlinger)
